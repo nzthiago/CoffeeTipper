@@ -3,6 +3,8 @@ using Android.Content.PM;
 using Android.OS;
 using Xamarin.Forms.Platform.Android;
 
+//test CI
+
 namespace CoffeeTip.Droid
 {
     [Activity(Label = "CoffeeTip.Droid", Icon = "@drawable/icon", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
